@@ -1,0 +1,69 @@
+Archivable: true
+Axis:
+    X: 0
+    "Y": 1
+    Z: 0
+CFrame:
+    Orientation:
+        R00: 0
+        R01: -1
+        R02: 0
+        R10: 1
+        R11: 0
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 2
+        "Y": 0.5
+        Z: 0
+Capabilities: ""
+ClassName: Attachment
+Name: carryAttachment1
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 90
+Parent: carryPart
+Position:
+    X: 2
+    "Y": 0.5
+    Z: 0
+Sandboxed: false
+SecondaryAxis:
+    X: -1
+    "Y": 0
+    Z: 0
+Visible: false
+WorldAxis:
+    X: 0
+    "Y": 1
+    Z: 0
+WorldCFrame:
+    Orientation:
+        R00: 0
+        R01: -1
+        R02: 0
+        R10: 1
+        R11: 0
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -17.525856018066406
+        "Y": 0.9999999403953552
+        Z: -10.716389656066895
+WorldOrientation:
+    X: 0
+    "Y": 0
+    Z: 90
+WorldPosition:
+    X: -17.525856018066406
+    "Y": 0.9999999403953552
+    Z: -10.716389656066895
+WorldSecondaryAxis:
+    X: -1
+    "Y": 0
+    Z: 0

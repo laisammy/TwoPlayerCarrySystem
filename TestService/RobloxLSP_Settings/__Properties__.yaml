@@ -1,0 +1,6 @@
+Archivable: true
+Capabilities: ""
+ClassName: ModuleScript
+Name: RobloxLSP_Settings
+Parent: TestService
+Sandboxed: false

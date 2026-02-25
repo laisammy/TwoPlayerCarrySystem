@@ -1,0 +1,28 @@
+Archivable: true
+Capabilities: ""
+ClassName: Texture
+Color3:
+    B: 0
+    G: 0
+    R: 0
+ColorMap: rbxassetid://6372755229
+ColorMapContent: Content
+Face: Enum.NormalId.Top
+LocalTransparencyModifier: 0
+Name: Texture
+OffsetStudsU: 0
+OffsetStudsV: 0
+Parent: Baseplate
+Sandboxed: false
+StudsPerTileU: 8
+StudsPerTileV: 8
+Texture: rbxassetid://6372755229
+TextureContent: Content
+Transparency: 0.800000011920929
+UVOffset:
+    X: 0
+    "Y": 0
+UVScale:
+    X: 1
+    "Y": 1
+ZIndex: 1

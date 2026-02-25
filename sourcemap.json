@@ -1,0 +1,246 @@
+{
+  "children": [
+    {
+      "name": "Lighting",
+      "className": "Lighting",
+      "children": [
+        {
+          "name": "Atmosphere",
+          "className": "Atmosphere"
+        },
+        {
+          "name": "Bloom",
+          "className": "BloomEffect"
+        },
+        {
+          "name": "DepthOfField",
+          "className": "DepthOfFieldEffect"
+        },
+        {
+          "name": "Sky",
+          "className": "Sky"
+        },
+        {
+          "name": "SunRays",
+          "className": "SunRaysEffect"
+        }
+      ]
+    },
+    {
+      "name": "LocalizationService",
+      "className": "LocalizationService"
+    },
+    {
+      "name": "MaterialService",
+      "className": "MaterialService"
+    },
+    {
+      "name": "Players",
+      "className": "Players"
+    },
+    {
+      "name": "ReplicatedFirst",
+      "className": "ReplicatedFirst"
+    },
+    {
+      "name": "ReplicatedStorage",
+      "className": "ReplicatedStorage",
+      "children": [
+        {
+          "name": "WakaTimeProjectId",
+          "className": "StringValue",
+          "children": [
+            {
+              "name": "Message",
+              "className": "Message"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ServerScriptService",
+      "className": "ServerScriptService"
+    },
+    {
+      "name": "ServerStorage",
+      "className": "ServerStorage"
+    },
+    {
+      "name": "SoundService",
+      "className": "SoundService"
+    },
+    {
+      "name": "StarterGui",
+      "className": "StarterGui"
+    },
+    {
+      "name": "StarterPack",
+      "className": "StarterPack"
+    },
+    {
+      "name": "StarterPlayer",
+      "className": "StarterPlayer",
+      "children": [
+        {
+          "name": "StarterCharacterScripts",
+          "className": "StarterCharacterScripts"
+        },
+        {
+          "name": "StarterPlayerScripts",
+          "className": "StarterPlayerScripts"
+        }
+      ]
+    },
+    {
+      "name": "Teams",
+      "className": "Teams"
+    },
+    {
+      "name": "TestService",
+      "className": "TestService",
+      "children": [
+        {
+          "name": "RobloxLSP_Settings",
+          "className": "ModuleScript",
+          "filePaths": [
+            "TestService/RobloxLSP_Settings/__Source__.luau"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TextChatService",
+      "className": "TextChatService",
+      "children": [
+        {
+          "name": "BubbleChatConfiguration",
+          "className": "BubbleChatConfiguration",
+          "children": [
+            {
+              "name": "ImageLabel",
+              "className": "ImageLabel"
+            },
+            {
+              "name": "UICorner",
+              "className": "UICorner"
+            },
+            {
+              "name": "UIGradient",
+              "className": "UIGradient"
+            },
+            {
+              "name": "UIPadding",
+              "className": "UIPadding"
+            }
+          ]
+        },
+        {
+          "name": "ChannelTabsConfiguration",
+          "className": "ChannelTabsConfiguration"
+        },
+        {
+          "name": "ChatInputBarConfiguration",
+          "className": "ChatInputBarConfiguration"
+        },
+        {
+          "name": "ChatWindowConfiguration",
+          "className": "ChatWindowConfiguration"
+        }
+      ]
+    },
+    {
+      "name": "VoiceChatService",
+      "className": "VoiceChatService"
+    },
+    {
+      "name": "VRService",
+      "className": "VRService"
+    },
+    {
+      "name": "Workspace",
+      "className": "Workspace",
+      "children": [
+        {
+          "name": "Baseplate",
+          "className": "Part",
+          "children": [
+            {
+              "name": "Texture",
+              "className": "Texture"
+            }
+          ]
+        },
+        {
+          "name": "Camera",
+          "className": "Camera"
+        },
+        {
+          "name": "carryPart",
+          "className": "Part",
+          "children": [
+            {
+              "name": "carryAttachment1",
+              "className": "Attachment"
+            },
+            {
+              "name": "carryAttachment2",
+              "className": "Attachment"
+            },
+            {
+              "name": "Handle1",
+              "className": "Motor6D"
+            },
+            {
+              "name": "Handle2",
+              "className": "Motor6D"
+            }
+          ]
+        },
+        {
+          "name": "Handle2",
+          "className": "Part",
+          "children": [
+            {
+              "name": "holdAttachment1",
+              "className": "Attachment"
+            },
+            {
+              "name": "holdAttachment2",
+              "className": "Attachment"
+            },
+            {
+              "name": "ProximityPrompt",
+              "className": "ProximityPrompt",
+              "children": [
+                {
+                  "name": "Script",
+                  "className": "Script",
+                  "filePaths": [
+                    "Workspace/Handle2/ProximityPrompt/Script/__Source__.luau"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SpawnLocation",
+          "className": "SpawnLocation",
+          "children": [
+            {
+              "name": "Decal",
+              "className": "Decal"
+            }
+          ]
+        },
+        {
+          "name": "Terrain",
+          "className": "Terrain"
+        }
+      ]
+    }
+  ],
+  "className": "DataModel",
+  "name": "game"
+}

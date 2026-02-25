@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: StringValue
+Name: WakaTimeProjectId
+Parent: ReplicatedStorage
+Sandboxed: false
+Value: RoProject-bd2800ef

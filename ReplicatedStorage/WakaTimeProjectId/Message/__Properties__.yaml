@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: Message
+Name: Message
+Parent: WakaTimeProjectId
+Sandboxed: false
+Text: This is a WakaTime project identifier. Please don't delete it - it helps track your coding time consistently.
