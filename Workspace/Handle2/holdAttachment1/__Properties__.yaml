@@ -1,0 +1,69 @@
+Archivable: true
+Axis:
+    X: -1
+    "Y": 0
+    Z: 0
+CFrame:
+    Orientation:
+        R00: -1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: -1
+    Position:
+        X: 2.112394332885742
+        "Y": 0
+        Z: 0.337066650390625
+Capabilities: ""
+ClassName: Attachment
+Name: holdAttachment1
+Orientation:
+    X: 0
+    "Y": 180
+    Z: 0
+Parent: Handle2
+Position:
+    X: 2.112394332885742
+    "Y": 0
+    Z: 0.337066650390625
+Sandboxed: false
+SecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0
+Visible: true
+WorldAxis:
+    X: 0
+    "Y": 0
+    Z: 1
+WorldCFrame:
+    Orientation:
+        R00: 0
+        R01: 0
+        R02: -1
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 1
+        R21: 0
+        R22: 0
+    Position:
+        X: -19.696428298950195
+        "Y": 1.54315185546875
+        Z: -9.252889633178711
+WorldOrientation:
+    X: 0
+    "Y": -90
+    Z: 0
+WorldPosition:
+    X: -19.696428298950195
+    "Y": 1.54315185546875
+    Z: -9.252889633178711
+WorldSecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0

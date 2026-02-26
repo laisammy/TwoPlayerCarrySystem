@@ -1,7 +1,7 @@
-Capabilities: ''
-Name: player1
-ClassName: StringValue
-Sandboxed: false
-Parent: carryPart
 Archivable: true
-Value: ''
+Capabilities: ""
+ClassName: StringValue
+Name: player1
+Parent: carryPart
+Sandboxed: false
+Value: ""

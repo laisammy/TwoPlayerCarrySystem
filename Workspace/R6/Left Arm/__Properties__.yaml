@@ -1,89 +1,89 @@
 Anchored: false
-RightSurface: Enum.SurfaceType.Smooth
+Archivable: true
 AssemblyAngularVelocity:
-  Y: 0
-  X: 0
-  Z: 0
-Capabilities: ''
-BottomSurface: Enum.SurfaceType.Inlet
-CanCollide: false
-CollisionGroup: Default
-EnableFluidForces: false
+    X: 0
+    "Y": 0
+    Z: 0
 AssemblyLinearVelocity:
-  Y: 0
-  X: 0
-  Z: 0
-Transparency: 0
-ClassName: Part
-Orientation:
-  Y: 0
-  X: 0
-  Z: 0
-MaterialVariant: ''
+    X: 0
+    "Y": 0
+    Z: 0
+AudioCanCollide: true
+BackSurface: Enum.SurfaceType.Smooth
+BottomSurface: Enum.SurfaceType.Inlet
+BrickColor: Medium stone grey
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -27.499107360839844
+        "Y": 3
+        Z: -2.72772216796875
+CanCollide: false
 CanQuery: true
+CanTouch: true
+Capabilities: ""
+CastShadow: true
+ClassName: Part
+CollisionGroup: Default
 Color:
-  B: 0.6470588445663452
-  G: 0.6352941393852234
-  R: 0.6392157077789307
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
+CustomPhysicalProperties: nil
+EnableFluidForces: false
+FrontSurface: Enum.SurfaceType.Smooth
+LeftSurface: Enum.SurfaceType.Smooth
+LocalTransparencyModifier: 0
+Locked: false
 Massless: false
+Material: Enum.Material.Plastic
+MaterialVariant: ""
+Name: Left Arm
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: R6
+PivotOffset:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0
+Position:
+    X: -27.499107360839844
+    "Y": 3
+    Z: -2.72772216796875
+Reflectance: 0
+RightSurface: Enum.SurfaceType.Smooth
+RootPriority: 0
+Rotation:
+    X: 0
+    "Y": 0
+    Z: 0
 Sandboxed: false
 Shape: Enum.PartType.Block
-LeftSurface: Enum.SurfaceType.Smooth
-BackSurface: Enum.SurfaceType.Smooth
-Locked: false
-Material: Enum.Material.Plastic
-Archivable: true
 Size:
-  Y: 2
-  X: 1
-  Z: 1
-AudioCanCollide: true
-FrontSurface: Enum.SurfaceType.Smooth
-LocalTransparencyModifier: 0
-BrickColor: Medium stone grey
-CustomPhysicalProperties: nil
+    X: 1
+    "Y": 2
+    Z: 1
 TopSurface: Enum.SurfaceType.Studs
-CanTouch: true
-Parent: R6
-Rotation:
-  Y: 0
-  X: 0
-  Z: 0
-Reflectance: 0
-Name: Left Arm
-Position:
-  Y: 3
-  X: -27.499107360839844
-  Z: -2.72772216796875
-CFrame:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 1
-    R20: 0
-    R00: 1
-    R10: 0
-    R02: 0
-    R12: 0
-  Position:
-    Y: 3
-    X: -27.499107360839844
-    Z: -2.72772216796875
-RootPriority: 0
-CastShadow: true
-PivotOffset:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 1
-    R20: 0
-    R00: 1
-    R10: 0
-    R02: 0
-    R12: 0
-  Position:
-    Y: 0
-    X: 0
-    Z: 0
+Transparency: 0

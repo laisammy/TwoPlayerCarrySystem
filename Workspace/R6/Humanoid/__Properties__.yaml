@@ -1,43 +1,43 @@
-JumpHeight: 7.199999809265137
-EvaluateStateMachine: true
-HealthDisplayType: Enum.HumanoidHealthDisplayType.AlwaysOff
-RequiresNeck: true
-HealthDisplayDistance: 0
-WalkSpeed: 16
-MaxSlopeAngle: 89
-Jump: false
-Sandboxed: false
-DisplayName: ''
-AutomaticScalingEnabled: true
-Health: 100
-ClassName: Humanoid
-MaxHealth: 100
-UseJumpPower: true
+Archivable: true
 AutoJumpEnabled: true
-Parent: R6
-DisplayDistanceType: Enum.HumanoidDisplayDistanceType.None
+AutoRotate: true
+AutomaticScalingEnabled: true
 BreakJointsOnDeath: true
 CameraOffset:
-  Y: 0
-  X: 0
-  Z: 0
-Archivable: true
-NameDisplayDistance: 0
-RigType: Enum.HumanoidRigType.R6
-Sit: false
+    X: 0
+    "Y": 0
+    Z: 0
+Capabilities: ""
+ClassName: Humanoid
+DisplayDistanceType: Enum.HumanoidDisplayDistanceType.None
+DisplayName: ""
+EvaluateStateMachine: true
+Health: 100
+HealthDisplayDistance: 0
+HealthDisplayType: Enum.HumanoidHealthDisplayType.AlwaysOff
 HipHeight: 0
-TargetPoint:
-  Y: 0
-  X: 0
-  Z: 0
-AutoRotate: true
-WalkToPart: nil
-Name: Humanoid
-PlatformStand: false
-WalkToPoint:
-  Y: 0
-  X: 0
-  Z: 0
-Capabilities: ''
+Jump: false
+JumpHeight: 7.199999809265137
 JumpPower: 50
+MaxHealth: 100
+MaxSlopeAngle: 89
+Name: Humanoid
+NameDisplayDistance: 0
 NameOcclusion: Enum.NameOcclusion.OccludeAll
+Parent: R6
+PlatformStand: false
+RequiresNeck: true
+RigType: Enum.HumanoidRigType.R6
+Sandboxed: false
+Sit: false
+TargetPoint:
+    X: 0
+    "Y": 0
+    Z: 0
+UseJumpPower: true
+WalkSpeed: 16
+WalkToPart: nil
+WalkToPoint:
+    X: 0
+    "Y": 0
+    Z: 0

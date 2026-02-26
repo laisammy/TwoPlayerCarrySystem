@@ -31,7 +31,7 @@ OutdoorAmbient:
     B: 0.27450981736183167
     G: 0.27450981736183167
     R: 0.27450981736183167
-Parent: Place1
+Parent: TwoPlayerCarrySystem Test
 Sandboxed: false
 ShadowSoftness: 0.20000000298023224
 TimeOfDay: "14:30:00"

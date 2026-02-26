@@ -1,0 +1,8 @@
+Archivable: true
+Capabilities: ""
+ClassName: Script
+Disabled: false
+Enabled: true
+Name: ReleaseScriptHandle2
+Parent: ReleasePrompt
+Sandboxed: false

@@ -2,5 +2,5 @@ Archivable: true
 Capabilities: ""
 ClassName: ServerStorage
 Name: ServerStorage
-Parent: Place1
+Parent: TwoPlayerCarrySystem Test
 Sandboxed: false

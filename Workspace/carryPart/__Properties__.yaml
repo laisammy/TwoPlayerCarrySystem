@@ -1,89 +1,89 @@
 Anchored: true
-RightSurface: Enum.SurfaceType.Smooth
+Archivable: true
 AssemblyAngularVelocity:
-  Y: 0
-  X: 0
-  Z: 0
-Capabilities: ''
-BottomSurface: Enum.SurfaceType.Smooth
-CanCollide: true
-CollisionGroup: Default
-EnableFluidForces: true
+    X: 0
+    "Y": 0
+    Z: 0
 AssemblyLinearVelocity:
-  Y: 0
-  X: 0
-  Z: 0
-Transparency: 0
-ClassName: Part
-Orientation:
-  Y: 0
-  X: 0
-  Z: 0
-MaterialVariant: ''
+    X: 0
+    "Y": 0
+    Z: 0
+AudioCanCollide: true
+BackSurface: Enum.SurfaceType.Smooth
+BottomSurface: Enum.SurfaceType.Smooth
+BrickColor: Medium stone grey
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -17.696428298950195
+        "Y": 1.54315185546875
+        Z: -7.140637397766113
+CanCollide: true
 CanQuery: true
+CanTouch: true
+Capabilities: ""
+CastShadow: true
+ClassName: Part
+CollisionGroup: Default
 Color:
-  B: 0.6470588445663452
-  G: 0.6352941393852234
-  R: 0.6392157077789307
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
+CustomPhysicalProperties: nil
+EnableFluidForces: true
+FrontSurface: Enum.SurfaceType.Smooth
+LeftSurface: Enum.SurfaceType.Smooth
+LocalTransparencyModifier: 0
+Locked: false
 Massless: true
+Material: Enum.Material.Plastic
+MaterialVariant: ""
+Name: carryPart
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: Workspace
+PivotOffset:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0
+Position:
+    X: -17.696428298950195
+    "Y": 1.54315185546875
+    Z: -7.140637397766113
+Reflectance: 0
+RightSurface: Enum.SurfaceType.Smooth
+RootPriority: 0
+Rotation:
+    X: 0
+    "Y": 0
+    Z: 0
 Sandboxed: false
 Shape: Enum.PartType.Block
-LeftSurface: Enum.SurfaceType.Smooth
-BackSurface: Enum.SurfaceType.Smooth
-Locked: false
-Material: Enum.Material.Plastic
-Archivable: true
 Size:
-  Y: 3.0863037109375
-  X: 4
-  Z: 4.224771022796631
-AudioCanCollide: true
-FrontSurface: Enum.SurfaceType.Smooth
-LocalTransparencyModifier: 0
-BrickColor: Medium stone grey
-CustomPhysicalProperties: nil
+    X: 4
+    "Y": 3.0863037109375
+    Z: 4.224771022796631
 TopSurface: Enum.SurfaceType.Smooth
-CanTouch: true
-Parent: Workspace
-Rotation:
-  Y: 0
-  X: 0
-  Z: 0
-Reflectance: 0
-Name: carryPart
-Position:
-  Y: 1.54315185546875
-  X: -17.696428298950195
-  Z: -7.140637397766113
-CFrame:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 1
-    R20: 0
-    R00: 1
-    R10: 0
-    R02: 0
-    R12: 0
-  Position:
-    Y: 1.54315185546875
-    X: -17.696428298950195
-    Z: -7.140637397766113
-RootPriority: 0
-CastShadow: true
-PivotOffset:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 1
-    R20: 0
-    R00: 1
-    R10: 0
-    R02: 0
-    R12: 0
-  Position:
-    Y: 0
-    X: 0
-    Z: 0
+Transparency: 0

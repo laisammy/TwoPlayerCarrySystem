@@ -1,57 +1,57 @@
+Archivable: true
+C0:
+    Orientation:
+        R00: -1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 0
+        R12: 1
+        R20: 0
+        R21: 1
+        R22: 0
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0
+C1:
+    Orientation:
+        R00: -1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 0
+        R12: 1
+        R20: 0
+        R21: 1
+        R22: 0
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0
+Capabilities: ""
+ClassName: Motor6D
+CurrentAngle: 0
+DesiredAngle: 0
 Enabled: true
-Capabilities: ''
+MaxVelocity: 0.10000000149011612
+Name: RootJoint
+Parent: HumanoidRootPart
+Part0: HumanoidRootPart
 Part1: Torso
 Sandboxed: false
-Part0: HumanoidRootPart
-DesiredAngle: 0
-MaxVelocity: 0.10000000149011612
-CurrentAngle: 0
 Transform:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 1
-    R20: 0
-    R00: 1
-    R10: 0
-    R02: 0
-    R12: 0
-  Position:
-    Y: 0
-    X: 0
-    Z: 0
-Name: RootJoint
-ClassName: Motor6D
-C1:
-  Orientation:
-    R11: 0
-    R01: 0
-    R21: 1
-    R22: 0
-    R20: 0
-    R00: -1
-    R10: 0
-    R02: 0
-    R12: 1
-  Position:
-    Y: 0
-    X: 0
-    Z: 0
-C0:
-  Orientation:
-    R11: 0
-    R01: 0
-    R21: 1
-    R22: 0
-    R20: 0
-    R00: -1
-    R10: 0
-    R02: 0
-    R12: 1
-  Position:
-    Y: 0
-    X: 0
-    Z: 0
-Archivable: true
-Parent: HumanoidRootPart
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

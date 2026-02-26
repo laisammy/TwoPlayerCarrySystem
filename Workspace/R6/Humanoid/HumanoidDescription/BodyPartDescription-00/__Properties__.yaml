@@ -1,14 +1,14 @@
-HeadShape: ''
-Instance: nil
-Sandboxed: false
-Parent: HumanoidDescription
+Archivable: true
 AssetId: 0
-Name: BodyPartDescription
+BodyPart: Enum.BodyPart.Torso
+Capabilities: ""
 ClassName: BodyPartDescription
 Color:
-  B: 0.6470588445663452
-  G: 0.6352941393852234
-  R: 0.6392157077789307
-Capabilities: ''
-Archivable: true
-BodyPart: Enum.BodyPart.LeftLeg
+    B: 0.3843137323856354
+    G: 0.37254902720451355
+    R: 0.38823530077934265
+HeadShape: ""
+Instance: nil
+Name: BodyPartDescription
+Parent: HumanoidDescription
+Sandboxed: false

@@ -13,12 +13,12 @@ GlobalWind:
     Z: 0
 Gravity: 196.1999969482422
 InsertPoint:
-    X: -17.188852310180664
-    "Y": 0.5000000596046448
-    Z: -10.716388702392578
+    X: -15.35942554473877
+    "Y": 1.5431530475616455
+    Z: -7.1405029296875
 ModelStreamingMode: Enum.ModelStreamingMode.Default
 Name: Workspace
-Parent: Place1
+Parent: TwoPlayerCarrySystem Test
 PrimaryPart: nil
 Retargeting: Enum.AnimatorRetargetingMode.Default
 Sandboxed: false

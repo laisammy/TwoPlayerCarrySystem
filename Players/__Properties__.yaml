@@ -3,6 +3,6 @@ Capabilities: ""
 CharacterAutoLoads: true
 ClassName: Players
 Name: Players
-Parent: Place1
+Parent: TwoPlayerCarrySystem Test
 RespawnTime: 3
 Sandboxed: false

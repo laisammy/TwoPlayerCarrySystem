@@ -8,7 +8,7 @@ IsPhysicsEnvironmentalThrottled: true
 IsSleepAllowed: true
 Name: TestService
 NumberOfPlayers: 0
-Parent: Place1
+Parent: TwoPlayerCarrySystem Test
 Sandboxed: false
 SimulateSecondsLag: 0
 ThrottlePhysicsToRealtime: true

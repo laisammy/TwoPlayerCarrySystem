@@ -1,63 +1,63 @@
-WalkAnimation: 0
-MoodAnimation: 0
-Face: 0
-ProportionScale: 0
-ClimbAnimation: 0
-FrontAccessory: ''
-FaceAccessory: ''
-RightArmColor:
-  B: 0.6470588445663452
-  G: 0.6352941393852234
-  R: 0.6392157077789307
-HairAccessory: ''
-RightArm: 0
-Head: 0
-Sandboxed: false
-UseAvatarSettings: false
-FallAnimation: 0
-TorsoColor:
-  B: 0.3843137323856354
-  G: 0.37254902720451355
-  R: 0.38823530077934265
-DepthScale: 1
-LeftArm: 0
-HeightScale: 1
-LeftLeg: 0
-RightLegColor:
-  B: 0.6470588445663452
-  G: 0.6352941393852234
-  R: 0.6392157077789307
-Parent: Humanoid
-LeftLegColor:
-  B: 0.6470588445663452
-  G: 0.6352941393852234
-  R: 0.6392157077789307
-JumpAnimation: 0
-BodyTypeScale: 0
-BackAccessory: ''
-LeftArmColor:
-  B: 0.6470588445663452
-  G: 0.6352941393852234
-  R: 0.6392157077789307
-Pants: 0
 Archivable: true
+BackAccessory: ""
+BodyTypeScale: 0
+Capabilities: ""
 ClassName: HumanoidDescription
-NeckAccessory: ''
-RightLeg: 0
+ClimbAnimation: 0
+DepthScale: 1
+Face: 0
+FaceAccessory: ""
+FallAnimation: 0
+FrontAccessory: ""
 GraphicTShirt: 0
-WaistAccessory: ''
-RunAnimation: 0
-IdleAnimation: 0
-Shirt: 0
-ShouldersAccessory: ''
+HairAccessory: ""
+HatAccessory: ""
+Head: 0
 HeadColor:
-  B: 0.6470588445663452
-  G: 0.6352941393852234
-  R: 0.6392157077789307
-SwimAnimation: 0
-Name: HumanoidDescription
-Torso: 0
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
 HeadScale: 1
-HatAccessory: ''
+HeightScale: 1
+IdleAnimation: 0
+JumpAnimation: 0
+LeftArm: 0
+LeftArmColor:
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
+LeftLeg: 0
+LeftLegColor:
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
+MoodAnimation: 0
+Name: HumanoidDescription
+NeckAccessory: ""
+Pants: 0
+Parent: Humanoid
+ProportionScale: 0
+RightArm: 0
+RightArmColor:
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
+RightLeg: 0
+RightLegColor:
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
+RunAnimation: 0
+Sandboxed: false
+Shirt: 0
+ShouldersAccessory: ""
+SwimAnimation: 0
+Torso: 0
+TorsoColor:
+    B: 0.3843137323856354
+    G: 0.37254902720451355
+    R: 0.38823530077934265
+UseAvatarSettings: false
+WaistAccessory: ""
+WalkAnimation: 0
 WidthScale: 1
-Capabilities: ''

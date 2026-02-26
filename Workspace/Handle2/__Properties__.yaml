@@ -1,0 +1,89 @@
+Anchored: false
+Archivable: true
+AssemblyAngularVelocity:
+    X: 0
+    "Y": 0
+    Z: 0
+AssemblyLinearVelocity:
+    X: 0
+    "Y": 0
+    Z: 0
+AudioCanCollide: true
+BackSurface: Enum.SurfaceType.Smooth
+BottomSurface: Enum.SurfaceType.Smooth
+BrickColor: Dark stone grey
+CFrame:
+    Orientation:
+        R00: 0
+        R01: 0
+        R02: 1
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: -1
+        R21: 0
+        R22: 0
+    Position:
+        X: -20.03349494934082
+        "Y": 1.54315185546875
+        Z: -7.140495300292969
+CanCollide: false
+CanQuery: true
+CanTouch: true
+Capabilities: ""
+CastShadow: true
+ClassName: Part
+CollisionGroup: Default
+Color:
+    B: 0.3843137323856354
+    G: 0.37254902720451355
+    R: 0.38823530077934265
+CustomPhysicalProperties: nil
+EnableFluidForces: true
+FrontSurface: Enum.SurfaceType.Smooth
+LeftSurface: Enum.SurfaceType.Smooth
+LocalTransparencyModifier: 0
+Locked: false
+Massless: true
+Material: Enum.Material.Plastic
+MaterialVariant: ""
+Name: Handle2
+Orientation:
+    X: 0
+    "Y": 90
+    Z: 0
+Parent: Workspace
+PivotOffset:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0
+Position:
+    X: -20.03349494934082
+    "Y": 1.54315185546875
+    Z: -7.140495300292969
+Reflectance: 0
+RightSurface: Enum.SurfaceType.Smooth
+RootPriority: 0
+Rotation:
+    X: 0
+    "Y": 90
+    Z: 0
+Sandboxed: false
+Shape: Enum.PartType.Block
+Size:
+    X: 4.224761962890625
+    "Y": 3.0863037109375
+    Z: 0.6741316318511963
+TopSurface: Enum.SurfaceType.Smooth
+Transparency: 0.5

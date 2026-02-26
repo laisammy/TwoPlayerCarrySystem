@@ -6,7 +6,7 @@ ClassName: SoundService
 DistanceFactor: 3.3299999237060547
 DopplerScale: 1
 Name: SoundService
-Parent: Place1
+Parent: TwoPlayerCarrySystem Test
 RespectFilteringEnabled: true
 RolloffScale: 1
 Sandboxed: false

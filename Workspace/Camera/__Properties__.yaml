@@ -1,24 +1,24 @@
 Archivable: true
 CFrame:
     Orientation:
-        R00: 0.08573786914348602
-        R01: -0.9623706340789795
-        R02: 0.2578601539134979
-        R10: 0
-        R11: 0.25881317257881165
-        R12: 0.9659273624420166
-        R20: -0.9963178038597107
-        R21: -0.08281655609607697
-        R22: 0.022190092131495476
+        R00: 0.9884719252586365
+        R01: -0.09514312446117401
+        R02: 0.11777591705322266
+        R10: 7.450580596923828e-09
+        R11: 0.777888298034668
+        R12: 0.6284027099609375
+        R20: -0.15140469372272491
+        R21: -0.6211584210395813
+        R22: 0.7689206600189209
     Position:
-        X: -15.104032516479492
-        "Y": 5.041907787322998
-        Z: -10.65611743927002
+        X: -15.596712112426758
+        "Y": 11.026997566223145
+        Z: 3.2383790016174316
 CameraSubject: nil
 CameraType: Enum.CameraType.Fixed
 Capabilities: ""
 ClassName: Camera
-DiagonalFieldOfView: 137.78558349609375
+DiagonalFieldOfView: 127.6971435546875
 FieldOfView: 70
 FieldOfViewMode: Enum.FieldOfViewMode.Vertical
 Focus:
@@ -33,12 +33,12 @@ Focus:
         R21: 0
         R22: 1
     Position:
-        X: -15.619752883911133
-        "Y": 3.1100528240203857
-        Z: -10.7004976272583
+        X: -15.832263946533203
+        "Y": 9.77019214630127
+        Z: 1.7005376815795898
 HeadLocked: true
 HeadScale: 1
-MaxAxisFieldOfView: 110.7873764038086
+MaxAxisFieldOfView: 102.3895492553711
 Name: Camera
 Parent: Workspace
 Sandboxed: false

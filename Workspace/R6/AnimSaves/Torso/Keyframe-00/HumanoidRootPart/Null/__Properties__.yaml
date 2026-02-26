@@ -1,7 +1,7 @@
-Capabilities: ''
-Name: 'Null'
-ClassName: IntValue
-Sandboxed: false
-Parent: HumanoidRootPart
 Archivable: true
+Capabilities: ""
+ClassName: IntValue
+Name: "Null"
+Parent: HumanoidRootPart
+Sandboxed: false
 Value: 0

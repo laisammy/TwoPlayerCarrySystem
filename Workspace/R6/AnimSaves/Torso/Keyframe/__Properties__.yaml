@@ -1,7 +1,7 @@
-Capabilities: ''
-Time: 0
-ClassName: Keyframe
-Sandboxed: false
-Name: Keyframe
 Archivable: true
+Capabilities: ""
+ClassName: Keyframe
+Name: Keyframe
 Parent: Torso
+Sandboxed: false
+Time: 1

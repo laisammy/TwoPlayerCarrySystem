@@ -36,7 +36,23 @@
     },
     {
       "name": "Players",
-      "className": "Players"
+      "className": "Players",
+      "children": [
+        {
+          "name": "krxtenaa",
+          "className": "Player",
+          "children": [
+            {
+              "name": "Backpack",
+              "className": "Backpack"
+            },
+            {
+              "name": "PlayerScripts",
+              "className": "PlayerScripts"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "ReplicatedFirst",
@@ -46,6 +62,14 @@
       "name": "ReplicatedStorage",
       "className": "ReplicatedStorage",
       "children": [
+        {
+          "name": "Carry",
+          "className": "RemoteEvent"
+        },
+        {
+          "name": "carryEvent",
+          "className": "BindableEvent"
+        },
         {
           "name": "WakaTimeProjectId",
           "className": "StringValue",
@@ -60,7 +84,16 @@
     },
     {
       "name": "ServerScriptService",
-      "className": "ServerScriptService"
+      "className": "ServerScriptService",
+      "children": [
+        {
+          "name": "carryHandler",
+          "className": "Script",
+          "filePaths": [
+            "ServerScriptService/carryHandler/__Source__.luau"
+          ]
+        }
+      ]
     },
     {
       "name": "ServerStorage",
@@ -72,7 +105,31 @@
     },
     {
       "name": "StarterGui",
-      "className": "StarterGui"
+      "className": "StarterGui",
+      "children": [
+        {
+          "name": "carryStatus",
+          "className": "ScreenGui",
+          "children": [
+            {
+              "name": "mainFrame",
+              "className": "Frame",
+              "children": [
+                {
+                  "name": "TextLabel",
+                  "className": "TextLabel",
+                  "children": [
+                    {
+                      "name": "UICorner",
+                      "className": "UICorner"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "StarterPack",
@@ -88,7 +145,16 @@
         },
         {
           "name": "StarterPlayerScripts",
-          "className": "StarterPlayerScripts"
+          "className": "StarterPlayerScripts",
+          "children": [
+            {
+              "name": "CarryPrompt2",
+              "className": "LocalScript",
+              "filePaths": [
+                "StarterPlayer/StarterPlayerScripts/CarryPrompt2/__Source__.luau"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -194,6 +260,14 @@
             {
               "name": "Handle2",
               "className": "Motor6D"
+            },
+            {
+              "name": "player1",
+              "className": "StringValue"
+            },
+            {
+              "name": "player2",
+              "className": "StringValue"
             }
           ]
         },
@@ -210,15 +284,279 @@
               "className": "Attachment"
             },
             {
-              "name": "ProximityPrompt",
+              "name": "ReleasePrompt",
               "className": "ProximityPrompt",
               "children": [
                 {
-                  "name": "Script",
+                  "name": "ReleaseScriptHandle2",
                   "className": "Script",
                   "filePaths": [
-                    "Workspace/Handle2/ProximityPrompt/Script/__Source__.luau"
+                    "Workspace/Handle2/ReleasePrompt/ReleaseScriptHandle2/__Source__.luau"
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R6",
+          "className": "Model",
+          "children": [
+            {
+              "name": "AnimSaves",
+              "className": "Model",
+              "children": [
+                {
+                  "name": "Torso",
+                  "className": "KeyframeSequence",
+                  "children": [
+                    {
+                      "name": "Keyframe",
+                      "className": "Keyframe",
+                      "children": [
+                        {
+                          "name": "HumanoidRootPart",
+                          "className": "Pose",
+                          "children": [
+                            {
+                              "name": "Null",
+                              "className": "IntValue"
+                            },
+                            {
+                              "name": "Torso",
+                              "className": "Pose"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Keyframe",
+                      "className": "Keyframe",
+                      "children": [
+                        {
+                          "name": "HumanoidRootPart",
+                          "className": "Pose",
+                          "children": [
+                            {
+                              "name": "Null",
+                              "className": "IntValue"
+                            },
+                            {
+                              "name": "Torso",
+                              "className": "Pose"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Head",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "face",
+                  "className": "Decal"
+                },
+                {
+                  "name": "FaceCenterAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "FaceFrontAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "HairAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "HatAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "Mesh",
+                  "className": "SpecialMesh"
+                }
+              ]
+            },
+            {
+              "name": "Humanoid",
+              "className": "Humanoid",
+              "children": [
+                {
+                  "name": "HumanoidDescription",
+                  "className": "HumanoidDescription",
+                  "children": [
+                    {
+                      "name": "BodyPartDescription",
+                      "className": "BodyPartDescription"
+                    },
+                    {
+                      "name": "BodyPartDescription",
+                      "className": "BodyPartDescription"
+                    },
+                    {
+                      "name": "BodyPartDescription",
+                      "className": "BodyPartDescription"
+                    },
+                    {
+                      "name": "BodyPartDescription",
+                      "className": "BodyPartDescription"
+                    },
+                    {
+                      "name": "BodyPartDescription",
+                      "className": "BodyPartDescription"
+                    },
+                    {
+                      "name": "BodyPartDescription",
+                      "className": "BodyPartDescription"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "HumanoidRootPart",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "RootAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "RootJoint",
+                  "className": "Motor6D"
+                }
+              ]
+            },
+            {
+              "name": "Left Arm",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "LeftGripAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "LeftShoulderAttachment",
+                  "className": "Attachment"
+                }
+              ]
+            },
+            {
+              "name": "Left Leg",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "LeftFootAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "Snap",
+                  "className": "Snap"
+                }
+              ]
+            },
+            {
+              "name": "Right Arm",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "RightGripAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "RightShoulderAttachment",
+                  "className": "Attachment"
+                }
+              ]
+            },
+            {
+              "name": "Right Leg",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "RightFootAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "Snap",
+                  "className": "Snap"
+                }
+              ]
+            },
+            {
+              "name": "Torso",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "BodyBackAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "BodyFrontAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "Left Hip",
+                  "className": "Motor6D"
+                },
+                {
+                  "name": "Left Shoulder",
+                  "className": "Motor6D"
+                },
+                {
+                  "name": "LeftCollarAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "Neck",
+                  "className": "Motor6D"
+                },
+                {
+                  "name": "NeckAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "Right Hip",
+                  "className": "Motor6D"
+                },
+                {
+                  "name": "Right Shoulder",
+                  "className": "Motor6D"
+                },
+                {
+                  "name": "RightCollarAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "WaistBackAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "WaistCenterAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "WaistFrontAttachment",
+                  "className": "Attachment"
+                },
+                {
+                  "name": "Weld",
+                  "className": "Weld"
+                },
+                {
+                  "name": "Weld",
+                  "className": "Weld"
+                },
+                {
+                  "name": "Weld",
+                  "className": "Weld"
                 }
               ]
             }

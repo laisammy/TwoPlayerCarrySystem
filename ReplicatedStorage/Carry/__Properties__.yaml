@@ -1,0 +1,6 @@
+Archivable: true
+Capabilities: ""
+ClassName: RemoteEvent
+Name: Carry
+Parent: ReplicatedStorage
+Sandboxed: false

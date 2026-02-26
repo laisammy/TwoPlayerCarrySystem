@@ -23,6 +23,6 @@ LoadCharacterAppearance: true
 LuaCharacterController: Enum.CharacterControlMode.Default
 Name: StarterPlayer
 NameDisplayDistance: 100
-Parent: Place1
+Parent: TwoPlayerCarrySystem Test
 Sandboxed: false
 UserEmotesEnabled: true

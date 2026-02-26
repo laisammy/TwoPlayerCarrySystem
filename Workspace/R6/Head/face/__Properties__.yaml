@@ -1,24 +1,24 @@
-Parent: Head
-Face: Enum.NormalId.Front
-TextureContent: Content
-ZIndex: 1
 Archivable: true
-Texture: rbxasset://textures/face.png
-ColorMap: rbxasset://textures/face.png
-Capabilities: ''
-LocalTransparencyModifier: 0
-UVOffset:
-  Y: 0
-  X: 0
-UVScale:
-  Y: 1
-  X: 1
-Transparency: 0
-Color3:
-  B: 1
-  G: 1
-  R: 1
+Capabilities: ""
 ClassName: Decal
+Color3:
+    B: 1
+    G: 1
+    R: 1
+ColorMap: rbxasset://textures/face.png
 ColorMapContent: Content
+Face: Enum.NormalId.Front
+LocalTransparencyModifier: 0
 Name: face
+Parent: Head
 Sandboxed: false
+Texture: rbxasset://textures/face.png
+TextureContent: Content
+Transparency: 0
+UVOffset:
+    X: 0
+    "Y": 0
+UVScale:
+    X: 1
+    "Y": 1
+ZIndex: 1

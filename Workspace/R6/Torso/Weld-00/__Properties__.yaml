@@ -1,39 +1,39 @@
-Enabled: true
-Part1: LeftUpperArm
-Sandboxed: false
-Capabilities: ''
-Part0: Torso
-Name: Weld
-ClassName: Weld
-C1:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 0
-    R20: 1
-    R00: 0
-    R10: 0
-    R02: -1
-    R12: 0
-  Position:
-    Y: -0.3000011444091797
-    X: 0.5
-    Z: 0
-C0:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 0
-    R20: 1
-    R00: 0
-    R10: 0
-    R02: -1
-    R12: 0
-  Position:
-    Y: 0
-    X: -1
-    Z: 0
 Archivable: true
+C0:
+    Orientation:
+        R00: 0
+        R01: 0
+        R02: 1
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: -1
+        R21: 0
+        R22: 0
+    Position:
+        X: 1
+        "Y": 0
+        Z: 0
+C1:
+    Orientation:
+        R00: 0
+        R01: 0
+        R02: 1
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: -1
+        R21: 0
+        R22: 0
+    Position:
+        X: -0.5
+        "Y": -0.3000011444091797
+        Z: 0
+Capabilities: ""
+ClassName: Weld
+Enabled: true
+Name: Weld
 Parent: Torso
+Part0: Torso
+Part1: nil
+Sandboxed: false

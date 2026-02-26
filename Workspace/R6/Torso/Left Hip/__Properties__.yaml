@@ -1,57 +1,57 @@
+Archivable: true
+C0:
+    Orientation:
+        R00: 0
+        R01: 0
+        R02: -1
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 1
+        R21: 0
+        R22: 0
+    Position:
+        X: -1
+        "Y": -1
+        Z: 0
+C1:
+    Orientation:
+        R00: 0
+        R01: 0
+        R02: -1
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 1
+        R21: 0
+        R22: 0
+    Position:
+        X: -0.5
+        "Y": 1
+        Z: 0
+Capabilities: ""
+ClassName: Motor6D
+CurrentAngle: 0
+DesiredAngle: 0
 Enabled: true
-Capabilities: ''
+MaxVelocity: 0.10000000149011612
+Name: Left Hip
+Parent: Torso
+Part0: Torso
 Part1: Left Leg
 Sandboxed: false
-Part0: Torso
-DesiredAngle: 0
-MaxVelocity: 0.10000000149011612
-CurrentAngle: 0
 Transform:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 1
-    R20: 0
-    R00: 1
-    R10: 0
-    R02: 0
-    R12: 0
-  Position:
-    Y: 0
-    X: 0
-    Z: 0
-Name: Left Hip
-ClassName: Motor6D
-C1:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 0
-    R20: 1
-    R00: 0
-    R10: 0
-    R02: -1
-    R12: 0
-  Position:
-    Y: 1
-    X: -0.5
-    Z: 0
-C0:
-  Orientation:
-    R11: 1
-    R01: 0
-    R21: 0
-    R22: 0
-    R20: 1
-    R00: 0
-    R10: 0
-    R02: -1
-    R12: 0
-  Position:
-    Y: -1
-    X: -1
-    Z: 0
-Archivable: true
-Parent: Torso
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

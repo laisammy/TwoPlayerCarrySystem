@@ -1,0 +1,82 @@
+Active: false
+AnchorPoint:
+    X: 0
+    "Y": 0
+Archivable: true
+AutoLocalize: true
+AutomaticSize: Enum.AutomaticSize.None
+BackgroundColor3:
+    B: 1
+    G: 1
+    R: 1
+BackgroundTransparency: 0
+BorderColor3:
+    B: 0
+    G: 0
+    R: 0
+BorderMode: Enum.BorderMode.Outline
+BorderSizePixel: 0
+Capabilities: ""
+ClassName: TextLabel
+ClipsDescendants: false
+Font: Enum.Font.GothamBold
+FontFace: Font { Family = rbxasset://fonts/families/GothamSSm.json, Weight = Bold, Style = Normal }
+Interactable: true
+LayoutOrder: 0
+LineHeight: 1
+MaxVisibleGraphemes: -1
+Name: TextLabel
+NextSelectionDown: nil
+NextSelectionLeft: nil
+NextSelectionRight: nil
+NextSelectionUp: nil
+OpenTypeFeatures: ""
+Parent: mainFrame
+Position:
+    X:
+        Offset: 0
+        Scale: 0
+    "Y":
+        Offset: 0
+        Scale: 0
+RichText: false
+RootLocalizationTable: nil
+Rotation: 0
+Sandboxed: false
+Selectable: false
+SelectionBehaviorDown: Enum.SelectionBehavior.Escape
+SelectionBehaviorLeft: Enum.SelectionBehavior.Escape
+SelectionBehaviorRight: Enum.SelectionBehavior.Escape
+SelectionBehaviorUp: Enum.SelectionBehavior.Escape
+SelectionGroup: false
+SelectionImageObject: nil
+SelectionOrder: 0
+Size:
+    X:
+        Offset: 0
+        Scale: 1
+    "Y":
+        Offset: 0
+        Scale: 1
+SizeConstraint: Enum.SizeConstraint.RelativeXY
+Text: Waiting for another player...
+TextColor3:
+    B: 0
+    G: 0
+    R: 0
+TextDirection: Enum.TextDirection.Auto
+TextScaled: true
+TextSize: 14
+TextStrokeColor3:
+    B: 0
+    G: 0
+    R: 0
+TextStrokeTransparency: 1
+TextTransparency: 0
+TextTruncate: Enum.TextTruncate.None
+TextWrapped: true
+TextXAlignment: Enum.TextXAlignment.Center
+TextYAlignment: Enum.TextYAlignment.Center
+Transparency: 0
+Visible: true
+ZIndex: 1

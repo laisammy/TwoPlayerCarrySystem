@@ -1,21 +1,21 @@
-Offset:
-  Y: 0
-  X: 0
-  Z: 0
-Capabilities: ''
-Scale:
-  Y: 1.25
-  X: 1.25
-  Z: 1.25
-MeshId: ''
-TextureId: ''
-VertexColor:
-  Y: 1
-  X: 1
-  Z: 1
-MeshType: Enum.MeshType.Head
-ClassName: SpecialMesh
-Name: Mesh
-Parent: Head
 Archivable: true
+Capabilities: ""
+ClassName: SpecialMesh
+MeshId: ""
+MeshType: Enum.MeshType.Head
+Name: Mesh
+Offset:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: Head
 Sandboxed: false
+Scale:
+    X: 1.25
+    "Y": 1.25
+    Z: 1.25
+TextureId: ""
+VertexColor:
+    X: 1
+    "Y": 1
+    Z: 1

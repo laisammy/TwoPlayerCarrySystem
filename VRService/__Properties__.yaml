@@ -8,5 +8,5 @@ FadeOutViewOnCollision: true
 GuiInputUserCFrame: Enum.UserCFrame.Head
 LaserPointer: Enum.VRLaserPointerMode.Pointer
 Name: VRService
-Parent: Place1
+Parent: TwoPlayerCarrySystem Test
 Sandboxed: false
