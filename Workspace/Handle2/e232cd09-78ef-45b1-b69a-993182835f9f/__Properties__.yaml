@@ -1,0 +1,47 @@
+SecondaryAxis:
+  Y: 0
+  X: 0
+  Z: -1
+WorldCFrame:
+  Orientation:
+    R11: 0
+    R01: -1
+    R21: 0
+    R22: 0
+    R20: 1
+    R00: 0
+    R10: 0
+    R02: 0
+    R12: -1
+  Position:
+    Y: 1.54315185546875
+    X: -19.696428298950195
+    Z: -9.252889633178711
+WorldOrientation:
+  Y: -90
+  X: 90
+  Z: 0
+CFrame:
+  Orientation:
+    R11: 0
+    R01: 0
+    R21: -1
+    R22: 0
+    R20: 0
+    R00: -1
+    R10: 0
+    R02: 0
+    R12: -1
+  Position:
+    Y: 0
+    X: 2.112394332885742
+    Z: 0.337066650390625
+Orientation:
+  Y: 180
+  X: 90
+  Z: 0
+WorldSecondaryAxis:
+  Y: 0
+  X: -1
+  Z: 0
+ClassName: Folder
