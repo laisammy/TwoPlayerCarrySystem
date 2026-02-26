@@ -10,6 +10,8 @@ Demonstation video: https://youtu.be/1P0Wx-O2Crw
 There are 2 ways to install this into your device:
 1. Download the .rbxl file in the repository and open it with Roblox Studio
 2. Install Pesto, a VS Code to Roblox Studio Sync Tool and import it into Roblox Studio using its plugin
-Or you can just play test it here using the roblox client: https://www.roblox.com/games/84221913820687/TwoPlayerCarrySystem-Test
+
+# Or..
+You can just play test it here using the roblox client: https://www.roblox.com/games/84221913820687/TwoPlayerCarrySystem-Test
 
 Enjoy!
