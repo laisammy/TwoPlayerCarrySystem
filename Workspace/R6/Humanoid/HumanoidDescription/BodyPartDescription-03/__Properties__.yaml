@@ -1,0 +1,14 @@
+HeadShape: ''
+Instance: nil
+Sandboxed: false
+Parent: HumanoidDescription
+AssetId: 0
+Name: BodyPartDescription
+ClassName: BodyPartDescription
+Color:
+  B: 0.6470588445663452
+  G: 0.6352941393852234
+  R: 0.6392157077789307
+Capabilities: ''
+Archivable: true
+BodyPart: Enum.BodyPart.RightArm

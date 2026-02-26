@@ -1,35 +1,35 @@
 Archivable: true
 C0:
-    Orientation:
-        R00: 0
-        R01: 0
-        R02: 1
-        R10: 0
-        R11: 1
-        R12: 0
-        R20: -1
-        R21: 0
-        R22: 0
-    Position:
-        X: -4.510166168212891
-        "Y": 5.960464477539063e-08
-        Z: 0.00039005279541015625
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 0
+    R20: -1
+    R00: 0
+    R10: 0
+    R02: 1
+    R12: 0
+  Position:
+    Y: -1.04315185546875
+    X: -4.510166168212891
+    Z: 0.0005235671997070312
 C1:
-    Orientation:
-        R00: 1
-        R01: 0
-        R02: 0
-        R10: 0
-        R11: 1
-        R12: 0
-        R20: 0
-        R21: 0
-        R22: 1
-    Position:
-        X: -0.0003814697265625
-        "Y": 0
-        Z: -2.1730995178222656
-Capabilities: ""
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: -1.04315185546875
+    X: -0.0003814697265625
+    Z: -2.1730995178222656
+Capabilities: ''
 ClassName: Motor6D
 CurrentAngle: 0
 DesiredAngle: 0
@@ -41,17 +41,17 @@ Part0: carryPart
 Part1: Handle2
 Sandboxed: false
 Transform:
-    Orientation:
-        R00: 1
-        R01: 0
-        R02: 0
-        R10: 0
-        R11: 1
-        R12: 0
-        R20: 0
-        R21: 0
-        R22: 1
-    Position:
-        X: 0
-        "Y": 0
-        Z: 0
+  Orientation:
+    R00: 1
+    R01: 0
+    R02: 0
+    R10: 0
+    R11: 1
+    R12: 0
+    R20: 0
+    R21: 0
+    R22: 1
+  Position:
+    X: 0
+    Y: 0
+    Z: 0

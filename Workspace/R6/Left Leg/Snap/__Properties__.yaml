@@ -1,0 +1,39 @@
+Enabled: true
+Part1: HumanoidRootPart
+Sandboxed: false
+Capabilities: ''
+Part0: Left Leg
+Name: Snap
+ClassName: Snap
+C1:
+  Orientation:
+    R11: 0
+    R01: 0
+    R21: 1
+    R22: 0
+    R20: 0
+    R00: -1
+    R10: 0
+    R02: 0
+    R12: 1
+  Position:
+    Y: -1
+    X: -0.5
+    Z: 0
+C0:
+  Orientation:
+    R11: 0
+    R01: 0
+    R21: 1
+    R22: 0
+    R20: 0
+    R00: -1
+    R10: 0
+    R02: 0
+    R12: 1
+  Position:
+    Y: 1
+    X: 0
+    Z: 0
+Archivable: true
+Parent: Left Leg

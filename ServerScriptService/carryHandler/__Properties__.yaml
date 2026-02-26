@@ -1,0 +1,8 @@
+Enabled: true
+Capabilities: ''
+Disabled: false
+Parent: ServerScriptService
+Name: carryHandler
+ClassName: Script
+Archivable: true
+Sandboxed: false

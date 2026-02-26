@@ -1,0 +1,6 @@
+Capabilities: ''
+Name: carryEvent
+ClassName: BindableEvent
+Parent: ReplicatedStorage
+Archivable: true
+Sandboxed: false

@@ -1,0 +1,8 @@
+Capabilities: ''
+Loop: true
+Name: Torso
+ClassName: KeyframeSequence
+Parent: AnimSaves
+Priority: Enum.AnimationPriority.Action
+Archivable: true
+Sandboxed: false

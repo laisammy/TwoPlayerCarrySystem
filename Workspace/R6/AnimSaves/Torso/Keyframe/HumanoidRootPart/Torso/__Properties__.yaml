@@ -1,0 +1,24 @@
+Capabilities: ''
+Parent: HumanoidRootPart
+CFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 0
+    X: 0
+    Z: 0
+EasingStyle: Enum.PoseEasingStyle.Linear
+Name: Torso
+Weight: 1
+ClassName: Pose
+Sandboxed: false
+Archivable: true
+EasingDirection: Enum.PoseEasingDirection.In

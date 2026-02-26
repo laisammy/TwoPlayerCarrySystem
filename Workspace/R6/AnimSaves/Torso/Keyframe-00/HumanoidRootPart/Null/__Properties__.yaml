@@ -1,0 +1,7 @@
+Capabilities: ''
+Name: 'Null'
+ClassName: IntValue
+Sandboxed: false
+Parent: HumanoidRootPart
+Archivable: true
+Value: 0

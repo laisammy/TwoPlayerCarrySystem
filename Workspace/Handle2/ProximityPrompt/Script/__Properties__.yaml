@@ -1,8 +1,0 @@
-Archivable: true
-Capabilities: ""
-ClassName: Script
-Disabled: false
-Enabled: true
-Name: Script
-Parent: ProximityPrompt
-Sandboxed: false
